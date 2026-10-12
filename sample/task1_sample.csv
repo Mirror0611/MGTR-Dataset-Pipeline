@@ -1,0 +1,6 @@
+SUBJECT_ID,HADM_ID,DRUG,LAB_NAME,BASE_VALUE,POST_VALUE,DELTA_PERC,TIME_OFFSET_HRS,LABEL,INPUT_TEXT
+6,107064,Tacrolimus,Urea Nitrogen,32.0,23.0,-28.12,4.97,OPPOSITE,"Patient was administered Tacrolimus (2 mg). Baseline Urea Nitrogen was 32.0, and it changed to 23.0 (-28.1%) after 5.0 hours."
+6,107064,Warfarin,INR(PT),1.0,1.1,10.0,7.73,UNCERTAIN,"Patient was administered Warfarin (5 mg). Baseline INR(PT) was 1.0, and it changed to 1.1 (+10.0%) after 7.7 hours."
+6,107064,Heparin Sodium,PTT,43.8,50.0,14.16,7.73,UNCERTAIN,"Patient was administered Heparin Sodium (25,000 UNIT). Baseline PTT was 43.8, and it changed to 50.0 (+14.2%) after 7.7 hours."
+6,107064,Heparin Sodium,PTT,43.8,49.4,12.79,14.82,UNCERTAIN,"Patient was administered Heparin Sodium (25,000 UNIT). Baseline PTT was 43.8, and it changed to 49.4 (+12.8%) after 14.8 hours."
+6,107064,Heparin Sodium,PTT,43.8,51.8,18.26,20.9,UNCERTAIN,"Patient was administered Heparin Sodium (25,000 UNIT). Baseline PTT was 43.8, and it changed to 51.8 (+18.3%) after 20.9 hours."
